@@ -1,7 +1,7 @@
 # content-application2017
 Tweet collect program using twitter api
 
-Python3.6.3 Anaconda環境で実行しています。
+Python3.6.3 Anaconda 5.0.1環境で実行しています。
 コードはhttp://ailaby.com/twitter_api/
 上記のサイトのプログラムを改変して作りました。
 
